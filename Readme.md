@@ -1,2 +1,2 @@
 readme.md
-Esse projeto é de Power Bi  
+Esse projeto é do Power Bi  
